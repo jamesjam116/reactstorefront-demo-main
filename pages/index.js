@@ -35,6 +35,8 @@ export default function IndexPage({ merchant, categories, products }) {
       <h3>
         <Link href="/products">
           <a>Products</a>
+          <a>Products</a>
+          <a>Products</a>
         </Link>
       </h3>
 
